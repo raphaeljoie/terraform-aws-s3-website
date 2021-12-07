@@ -1,0 +1,1 @@
+https://docs.aws.amazon.com/acm/latest/userguide/email-validation.html
